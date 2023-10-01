@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Gelilolo
 - 👀 I’m interested in robux
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning .
+- sim
+- 💞️ I’m looking to collaborate on .sim..
+- 📫 How to reach me ...sim
 
 <!---
 Gelilolo/Gelilolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
